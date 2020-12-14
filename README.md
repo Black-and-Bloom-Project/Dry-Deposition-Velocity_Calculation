@@ -8,6 +8,9 @@ Author: Nuno Canha
 
 This python script aims to calculate the dry deposition velocity of particles (m/s) for a certain particle size at a named wind speed, relying on the function created by Hoppel et al. (2005) for the calculation of the particle deposition for a uniform surface source in equilibrium. The script uses as input a weather database with the following data: timestamp, temperature, relative humidity and windspeed.
 
+# Output of the script:
+This script provides 8 different figures (from time series of weather parameters, dry deposition of particles with diameter of 2.55 and 10 micrometers, and a summary of dry deposition velocities for integrated bins.
+
 # Features of the present update: 
 - focused on selected bins, Weather data from B&B (2017) and improvement of calculation's description.
 - testing the bin edges
