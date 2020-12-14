@@ -10,6 +10,7 @@ This python script aims to calculate the dry deposition velocity of particles (m
 
 # Output of the script:
 This script provides 8 different figures (from time series of weather parameters, dry deposition of particles with diameter of 2.55 and 10 micrometers, and a summary of dry deposition velocities for integrated bins.
+- Input data file: "BB_Hourly_correct.csv" (csv file with weather parameters averaged to 1 hour)
 
 # Features of the present update: 
 - focused on selected bins, Weather data from B&B (2017) and improvement of calculation's description.
